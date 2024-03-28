@@ -23,3 +23,8 @@ Requisitos Não Funcionais:
 3 . Confiabilidade: O sistema deve ser confiável, garantindo que os dados do calendário não sejam perdidos e que os eventos sejam registrados corretamente.
 4. Praticidade: O sistema deve ser rápido de usar e fluir de forma prática para que o usuário possa ter acesso ao quer quer o mais rápido possível.
 5. Segurança: Deve haver medidas de segurança implementadas para proteger os dados do usuário contra acesso não autorizado e para garantir a integridade dos dados.
+
+
+
+https://www.figma.com/file/2UXGeNzXKb4UaCzwAZxL3N/Untitled?type=design&node-id=0-1&mode=design&t=ZCXFYCqsIVnLrYQs-0
+figma do nosso trabalho
