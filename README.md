@@ -12,8 +12,8 @@ Nosso projeto: Para lidar com isso, chegamos em uma agenda/calendário com funç
 2. Seleção de Dia: Os usuários devem poder clicar em um dia específico para visualizar e modificar as atividades planejadas para esse dia.
 3. Adição de eventos: O usuário pode adicionar eventos com nome e descrição do evento no dia que desejar.
 3. Anexação de Arquivos: Os usuários devem poder anexar arquivos de vídeo/imagem aos dias que quiserem.
-4. Adição de Notas: Os usuários devem poder adicionar notas curtas ou longas com sobre o dia específico, mesmo pros dias que já passaram.
-5. Edição de Eventos: Os usuários devem poder editar e excluir eventos previamente adicionados em qualquer dia do calendário.
+4. Adição de descrição: Os usuários devem poder adicionar uma única descrição no dia selecionado, mesmo pros dias que já passaram.
+5. Edição de Eventos, arquivos e descrição: Os usuários devem poder editar e excluir eventos, arquivos ou descrição previamente adicionados em qualquer dia do calendário.
 6 . Segurança de Dados: Todos os dados do calendário e anexos devem ser armazenados com segurança e protegidos contra acesso não autorizado.
 
 Requisitos Não Funcionais:
